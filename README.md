@@ -3,6 +3,10 @@
 ## Purpose
 
 ## Tools Utilized 
+- Python
+  - Pandas Library
+- Excel
+- R
 
 ## Dataset Information
 
