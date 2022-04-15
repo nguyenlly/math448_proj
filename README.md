@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="https://github.com/nguyenlly/math448_proj/blob/main/images/Spotify_logo.png" width="150" height="150">
+    <img src="https://github.com/nguyenlly/math448_proj/blob/main/images/Spotify_logo.png" width="120" height="120">
      <h1 align="center">Analysis of Spotify Million Playlist Dataset Challenge</h1>
     <p align="center" class="h6">By Nguyen Ly</p>
     
