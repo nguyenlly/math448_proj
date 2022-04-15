@@ -3,7 +3,9 @@
      <h1 align="center">Analysis of Spotify Million Playlist Dataset Challenge</h1>
     <p align="center" class="h6">By Nguyen Ly</p>
     
-## Purpose
+## Introduction
+
+As streaming is turning into the primary manner of interacting with music, this creates modifications to how music is consumed. This project is an evaluation of tune advice and interplay, specially on Spotify. Music advice and interplay might be tested the use of public playlists made via way of means of Spotify users. This assignment will in addition delve into the fulfillment of a song and its recognition at the streaming platform primarily based totally on playlist advice and interplay. The metrics for measuring music advice and interplay is thru the fulfillment of artist and song with recognition, playlist count, and follower count.
 
 ## Tools Utilized 
 - Python 3
