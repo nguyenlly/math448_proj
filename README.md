@@ -35,12 +35,12 @@ popularity score is an indicator of interaction with an artist?
 
 ## Figures
 
-<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure1.png" width="600" height="600"></p>
-<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure2.png" width="600" height="600"></p>
-<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure3.png" width="600" height="600"></p>
-<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure4.png" width="600" height="600"></p>
-<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure5.png" width="600" height="600"></p>
-<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure6.png" width="600" height="600"></p>
+<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure1.png" width="600" height="650"></p>
+<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure2.png" width="600" height="650"></p>
+<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure3.png" width="600" height="650"></p>
+<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure4.png" width="600" height="650"></p>
+<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure5.png" width="600" height="650"></p>
+<p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure6.png" width="600" height="650"></p>
 
 
 
