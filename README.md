@@ -6,7 +6,7 @@
 
 ## Dataset Information
 
-**Dataset Name:** [Spotify Dataset 1921-2020, 600k+ Tracks](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)
+**Dataset Name:** Spotify Dataset 1921-2020, 600k+ Tracks | [Link to Kaggle Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)
 
 **Dataset Owner:** Yamac Eren Ay
 
