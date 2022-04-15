@@ -4,7 +4,7 @@
 
 ## Tools Utilized 
 - Python
-  - Pandas Library
+- Pandas Library
 - Excel
 - R
 
@@ -17,6 +17,12 @@
 **Source:** Spotify Web API
 
 **Release Data of Latest Version:** April 2021
+
+## Research Questions
+- What variables increase the popularity of a song?
+- What is the effect of a track’s popularity on the number of Spotify playlist a track is in?
+- Does having a high playlist and follower count influence an artist’s popularity, assuming that
+popularity score is an indicator of interaction with an artist?
 
 ## Conclusion 
 
