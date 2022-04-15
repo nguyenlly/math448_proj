@@ -3,10 +3,12 @@
 ## Purpose
 
 ## Tools Utilized 
-- Python
-- Pandas Library
+- Python 3
 - Excel
 - R
+
+### Python Libararies
+- Pandas
 
 ## Dataset Information
 
