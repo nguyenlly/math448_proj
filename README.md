@@ -7,6 +7,12 @@
 
 As streaming is turning into the primary manner of interacting with music, this creates modifications to how music is consumed. This project is an evaluation of tune advice and interplay, specially on Spotify. Music advice and interplay might be tested the use of public playlists made via way of means of Spotify users. This assignment will in addition delve into the fulfillment of a song and its recognition at the streaming platform primarily based totally on playlist advice and interplay. The metrics for measuring music advice and interplay is thru the fulfillment of artist and song with recognition, playlist count, and follower count.
 
+#### Research Questions
+- What variables increase the popularity of a song?
+- What is the effect of a track’s popularity on the number of Spotify playlist a track is in?
+- Does having a high playlist and follower count influence an artist’s popularity, assuming that
+popularity score is an indicator of interaction with an artist?
+
 ## Tools Utilized 
 - Python 3
 - Excel
@@ -27,11 +33,6 @@ As streaming is turning into the primary manner of interacting with music, this 
 
 **Release Data of Latest Version:** April 2021
 
-## Research Questions
-- What variables increase the popularity of a song?
-- What is the effect of a track’s popularity on the number of Spotify playlist a track is in?
-- Does having a high playlist and follower count influence an artist’s popularity, assuming that
-popularity score is an indicator of interaction with an artist?
 
 ## Conclusion 
 
