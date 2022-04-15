@@ -17,6 +17,8 @@ As streaming is turning into the primary manner of interacting with music, this 
 
 ## Dataset Information
 
+The data from Kaggle is a collection of around 600k tracks from 1922 to 2021 which a more in-depth look at a track’s variable such as danceability, energy, etc.
+
 **Dataset Name:** Spotify Dataset 1921-2020, 600k+ Tracks | [Link to Kaggle Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)
 
 **Dataset Owner:** Yamac Eren Ay
