@@ -1,6 +1,9 @@
-# Analysis of Spotify Million Playlist Dataset Challenge
  <p align="center">
     <img src="https://github.com/nguyenlly/math448_proj/blob/main/images/Spotify_logo.png" width="200" height="263">
+     <h1 align="center">Analysis of Spotify Million Playlist Dataset Challenge</h1>
+    <p align="center" class="h6">By Nguyen Ly</p>
+    
+# Analysis of Spotify Million Playlist Dataset Challenge
 
 ## Purpose
 
