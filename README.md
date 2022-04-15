@@ -1,6 +1,6 @@
 # Analysis of Spotify Million Playlist Dataset Challenge
  <p align="center">
-    <img src="https://github.com/nguyenlly/math448_proj/blob/main/images/Spotify_logo.png" width="400" height="263">
+    <img src="https://github.com/nguyenlly/math448_proj/blob/main/images/Spotify_logo.png" width="200" height="263">
 
 ## Purpose
 
