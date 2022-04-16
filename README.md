@@ -57,7 +57,7 @@ popularity score is an indicator of interaction with an artist?
 <p align="center">Histogram showing distribution of popularity score of tracks in the Spotify Million Playlist
 Dataset. The two red lines indicate quartile 1 and quartile 3 respectively</p>
 
-### findings
+### Findings
 
 The distribution of the histogram is normal and unimodal,
 with a mode at 40 points. It has a minimum value of 0 points and a maximum value of 90 points.
@@ -69,20 +69,37 @@ and 38.92986 respectively
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure2.png" width="650" height="450"></p>
 <p align="center">Scatterplots of popularity scores vs 11 numerical variables. The blue line represents the
 generalized additive model and the red line represents the linear model.</p>
+
+### Findings 
+
+From the figure, there is a positive linear relationship between popularity and 6 numerical variables.
+These are count, danceability, duration_min, energy, loudness, and speechiness. While some of
+these variables are not well modeled to a linear model, this positive linear relationship suggests
+that as these variables increases, popularity also increases.
+
 <hr>
 
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure3.png" width="650" height="450"></p>
 <p align="center">Distribution of popularity scores in dataset</p>
+
+###Findings
+
 <hr>
 
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure4.png" width="650" height="450"></p>
 <p align="center">Figure of scatterplot with linear regression and correlation of playlist count, followers
 count, and popularity score.</p>
+
+### Findings
+
 <hr>
 
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure5.png" width="650" height="450"></p>
 <p align="center">Histogram of differences in mean-difference in playlist count and popularity score of an
 arist.</p>
+
+### Findings
+
 <hr>
 
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure6.png" width="650" height="450"></p>
