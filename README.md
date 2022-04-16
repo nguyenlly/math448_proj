@@ -23,7 +23,19 @@ popularity score is an indicator of interaction with an artist?
 
 ## Dataset Information
 
-### Dataset 1
+### Spotify Million Playlist Dataset Challenge
+
+**Dataset Name:** Spotify Million Playlist Dataset Challenge | [Link to Dataset](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge#dataset)
+
+**Dataset Description:** The dataset contains 1,000,000 playlists, including playlist titles and track titles, created by users on the Spotify platform between January 2010 and October 2017.
+
+**Dataset Owner:** Spotify
+
+**Source:** Spotify
+
+**Release Data of Latest Version:** September 2020
+
+### Spotify Dataset 1921-2020, 600k+ Tracks
 
 **Dataset Name:** Spotify Dataset 1921-2020, 600k+ Tracks | [Link to Kaggle Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)
 
@@ -35,17 +47,7 @@ popularity score is an indicator of interaction with an artist?
 
 **Release Data of Latest Version:** April 2021
 
-### Dataset 2
 
-**Dataset Name:** Spotify Million Playlist Dataset Challenge | [Link to Dataset](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge#dataset)
-
-**Dataset Description:** The dataset contains 1,000,000 playlists, including playlist titles and track titles, created by users on the Spotify platform between January 2010 and October 2017.
-
-**Dataset Owner:** Spotify
-
-**Source:** Spotify
-
-**Release Data of Latest Version:** September 2020
 
 ## Figures
 
