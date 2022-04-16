@@ -113,13 +113,18 @@ arist.</p>
 
 ### Findings
 
+While lines were added to show the difference in means of the dataset (which were at 1272.685 and
+1272.685)onto the resampling from the permutation test, the lines were outside the distribution of the permutation test. The p-value for this test is 2e − 04 meaning that the p-value is statistically significant.
 <hr>
 
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure6.png" width="650" height="450"></p>
 <p align="center">Histogram of differences in mean-difference in follower count and popularity score of an
 arist.</p>
 
-
+### Findings
+The differences in
+mean-difference of follower count can be seen in Figure 5, where the resampling of differences in
+mean-difference have a distribution between -10,000 and 15,000. However, the difference in mean-difference for the dataset is at -204527.6 and 204527.6 which is not included within the resamplingrange. The p-value for this permutation test is at 2e − 04 meaning that the p-value is statistically significant.
 
 ## Conclusion 
 
