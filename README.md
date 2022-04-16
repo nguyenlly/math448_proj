@@ -83,7 +83,12 @@ that as these variables increases, popularity also increases.
 <p align="center">Distribution of popularity scores in dataset</p>
 
 ### Findings
-
+Values between Q3 and Q1 will be categorized as mid, and values above Q3
+will be categorized as a high or high outlier. For popularity scores, a low score is between 0 and 28
+points. A medium score is between 29 to 49 points, and a high score is between 50 to 79 points. The
+outliers will be kept and will have their level which is between 80 and 100 points. As for playlist
+counts, a low playlist count is between 1 and 2 playlists. A medium playlist count is between 3 to
+37 playlists, and a high playlist count is between 37 to 46574 playlists.
 <hr>
 
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure4.png" width="650" height="450"></p>
