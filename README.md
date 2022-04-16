@@ -57,6 +57,14 @@ popularity score is an indicator of interaction with an artist?
 <p align="center">Histogram showing distribution of popularity score of tracks in the Spotify Million Playlist
 Dataset. The two red lines indicate quartile 1 and quartile 3 respectively</p>
 <hr>
+
+### findings
+
+The distribution of the histogram is normal and unimodal,
+with a mode at 40 points. It has a minimum value of 0 points and a maximum value of 90 points.
+The first quartile is at 29 points. The third quartile is at 49 points. The median and mean are 39
+and 38.92986 respectively
+
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure2.png" width="650" height="450"></p>
 <p align="center">Scatterplots of popularity scores vs 11 numerical variables. The blue line represents the
 generalized additive model and the red line represents the linear model.</p>
