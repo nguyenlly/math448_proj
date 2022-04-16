@@ -97,6 +97,14 @@ count, and popularity score.</p>
 
 ### Findings
 
+There is a strong linear relationship between playlist
+count and follower count, the graph of playlist count and the graph of popularity score and follower
+count and popularity score does not have a strong linear relationship. This relationship can be
+seen with the correlation coefficient between playlist count and follower count of 0.70, which is
+a strong correlation. However, the correlation coefficient for playlist count and popularity score
+and the correlation for follower count and popularity score is 0.19 and 0.23 respectively, which is
+a low to moderate correlation.
+
 <hr>
 
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure5.png" width="650" height="450"></p>
