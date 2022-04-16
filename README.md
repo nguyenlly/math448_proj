@@ -35,6 +35,8 @@ popularity score is an indicator of interaction with an artist?
 
 **Release Data of Latest Version:** September 2020
 
+<hr>
+
 ### Spotify Dataset 1921-2020, 600k+ Tracks
 
 **Dataset Name:** Spotify Dataset 1921-2020, 600k+ Tracks | [Link to Kaggle Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks)
