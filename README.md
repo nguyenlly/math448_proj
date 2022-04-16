@@ -82,7 +82,7 @@ that as these variables increases, popularity also increases.
 <p align="center"><img src="https://github.com/nguyenlly/math448_proj/blob/main/images/figure3.png" width="650" height="450"></p>
 <p align="center">Distribution of popularity scores in dataset</p>
 
-###Findings
+### Findings
 
 <hr>
 
