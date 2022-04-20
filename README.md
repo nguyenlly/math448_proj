@@ -18,9 +18,6 @@ popularity score is an indicator of interaction with an artist?
 - Excel
 - R
 
-### Python Libararies
-- Pandas
-
 ## Dataset Information
 
 ### Spotify Million Playlist Dataset Challenge
